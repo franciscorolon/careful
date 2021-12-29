@@ -1,0 +1,12 @@
+/*!
+ * Additional Variation Images Gallery for WooCommerce v1.2.8 
+ * 
+ * Author: Emran Ahmed ( emran.bd.08@gmail.com ) 
+ * Date: 10/17/2021, 12:25:50 PM
+ * Released under the GPLv3 license.
+ */
+.woo-variation-gallery-theme-mesmerize *,
+.woo-variation-gallery-theme-child-mesmerize * {
+  min-width: 0;
+  min-height: 0;
+}

@@ -1,0 +1,65 @@
+[
+    {
+        "name": "nitropack/httpclient",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "git@bitbucket.org:nitropack/httpclient.git",
+            "reference": "b1e792a4e99279d5c5b12cb0a35921d90f0043c2"
+        },
+        "require": {
+            "nitropack/url": "dev-master"
+        },
+        "time": "2020-11-04T09:25:18+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "NitroPack\\": "src/"
+            }
+        },
+        "authors": [
+            {
+                "name": "Ivailo Hristov"
+            }
+        ],
+        "description": "HttpClient library written in PHP, without relying on cURL nor url_fopen",
+        "keywords": [
+            "client",
+            "http",
+            "library",
+            "php"
+        ]
+    },
+    {
+        "name": "nitropack/url",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "git@bitbucket.org:nitropack/url.git",
+            "reference": "d10e616a333f5a5107137f88313c7ceba638c8a0"
+        },
+        "time": "2020-11-04T10:08:34+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "NitroPack\\": "src/"
+            }
+        },
+        "authors": [
+            {
+                "name": "Ivailo Hristov"
+            }
+        ],
+        "description": "URL manipulation library",
+        "keywords": [
+            "library",
+            "manipulation",
+            "php",
+            "url"
+        ]
+    }
+]

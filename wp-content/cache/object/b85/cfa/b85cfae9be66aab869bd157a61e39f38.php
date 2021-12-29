@@ -1,0 +1,1 @@
+QFÉ`<?php exit; ?>a:1:{s:7:"content";s:74:"{{WP_CONTENT_DIR}}/themes/flatsome/woocommerce/myaccount/account-links.php";}

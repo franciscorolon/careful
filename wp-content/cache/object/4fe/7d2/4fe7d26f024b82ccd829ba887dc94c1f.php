@@ -1,0 +1,1 @@
+§GÉ`<?php exit; ?>a:1:{s:7:"content";s:63:"https://www.careful.com.mx/wp-includes/images/media/default.png";}

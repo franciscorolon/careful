@@ -1,0 +1,1 @@
+úGÉ`<?php exit; ?>a:1:{s:7:"content";a:6:{s:25:"_customize_changeset_uuid";a:1:{i:0;s:36:"90cd44b1-91e1-4d36-b5d0-e18d1a286582";}s:10:"_edit_lock";a:1:{i:0;s:12:"1622614166:2";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:7:"_footer";a:1:{i:0;s:6:"normal";}s:17:"_wp_page_template";a:1:{i:0;s:7:"default";}s:13:"_thumbnail_id";a:1:{i:0;s:0:"";}}}

@@ -1,0 +1,1 @@
+[GÉ`<?php exit; ?>a:1:{s:7:"content";a:2:{i:0;O:8:"stdClass":3:{s:7:"meta_id";s:2:"45";s:8:"meta_key";s:7:"_footer";s:10:"meta_value";s:6:"normal";}i:1;O:8:"stdClass":3:{s:7:"meta_id";s:2:"46";s:8:"meta_key";s:17:"_wp_page_template";s:10:"meta_value";s:21:"page-left-sidebar.php";}}}

@@ -1,0 +1,1 @@
+&IÉ`<?php exit; ?>a:1:{s:7:"content";s:102:"{{WP_PLUGIN_DIR}}/woocommerce-mercadopago/includes/module/../../templates/checkout/credential/link.php";}

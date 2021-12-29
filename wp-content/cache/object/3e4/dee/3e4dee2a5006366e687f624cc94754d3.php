@@ -1,0 +1,1 @@
+!UÉ`<?php exit; ?>a:1:{s:7:"content";s:206:"{"mobile":{"score":34,"metrics":null},"desktop":{"score":84,"metrics":null},"test_url":"https:\/\/developers.google.com\/speed\/pagespeed\/insights\/?url=https%3A%2F%2Fwww.careful.com.mx","time":1623803665}";}

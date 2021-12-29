@@ -1,0 +1,1 @@
+&IÉ`<?php exit; ?>a:1:{s:7:"content";s:46:"{"good":"18","recommended":"3","critical":"0"}";}

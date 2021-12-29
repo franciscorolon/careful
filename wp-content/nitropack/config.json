@@ -1,0 +1,36 @@
+{
+    "www.careful.com.mx": {
+        "siteId": "MjyZLxKvDvOgyubEqYFqAQmfOUtGgiAw",
+        "siteSecret": "7J7h4DeTRp6ZFGAmM17FP7ZbJtwJ7nqxxxQNOElL1GJQ6lDEfbZuPnc2nZaoY121",
+        "blogId": 1,
+        "compression": false,
+        "webhookToken": "8e4fc10f915d695135da9e5466841672",
+        "home_url": "https:\/\/www.careful.com.mx",
+        "admin_url": "https:\/\/www.careful.com.mx\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.7"
+    },
+    "localhost\/careful": {
+        "siteId": "MjyZLxKvDvOgyubEqYFqAQmfOUtGgiAw",
+        "siteSecret": "7J7h4DeTRp6ZFGAmM17FP7ZbJtwJ7nqxxxQNOElL1GJQ6lDEfbZuPnc2nZaoY121",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "8e4fc10f915d695135da9e5466841672",
+        "home_url": "https:\/\/localhost\/careful",
+        "admin_url": "https:\/\/localhost\/careful\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.7"
+    }
+}

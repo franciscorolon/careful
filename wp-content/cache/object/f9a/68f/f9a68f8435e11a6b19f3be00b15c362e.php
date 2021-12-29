@@ -1,0 +1,1 @@
+ªEÉ`<?php exit; ?>a:1:{s:7:"content";s:71:"{{WP_CONTENT_DIR}}/themes/flatsome/woocommerce/single-product/price.php";}
